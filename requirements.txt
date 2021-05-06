@@ -12,9 +12,8 @@ torchvision>=0.8.1
 tqdm>=4.41.0
 
 # editing -------------------------------------
-pip install jupyterlab
-pip install ipywidgets
-
+jupyterlab
+ipywidgets
 
 # logging -------------------------------------
 tensorboard>=2.4.1
