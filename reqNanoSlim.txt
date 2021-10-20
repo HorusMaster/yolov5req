@@ -1,6 +1,4 @@
 Pillow
-torch>=1.7.0
-torchvision>=0.8.1
 pandas
 PyYAML>=5.3.1
 tqdm>=4.41.0
